@@ -21,12 +21,24 @@ I'm a Full Stack & AI Engineer who loves building robust backends, beautiful int
 
 ## 🚀 Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [**Travel-Pulse**](https://github.com/dikshyak/Travel-Pulse) | Full-stack tour booking platform with AI chat assistant, Stripe payments, Mapbox maps, Google OAuth & 2FA | `JavaScript` `MongoDB` `Express` `React` `Node` `Stripe` `Mapbox` `OpenRouter` |
-| [**react-gym-ai-planner**](https://github.com/dikshyak/react-gym-ai-planner) | AI-powered fitness planning app that generates personalized workout plans via LLMs | `TypeScript` `React` `Prisma` `Neon PostgreSQL` `OpenRouter` |
-| [**AI-RPS**](https://github.com/dikshyak/AI-RPS) | Rock Paper Scissors game where the AI learns your patterns using Q-Learning reinforcement | `Python` `Q-Learning` |
-| [**web-scraper-OpenAI**](https://github.com/dikshyak/web-scraper-OpenAI) | AI-powered web scraper that extracts and interprets content using OpenAI & Ollama | `Python` `OpenAI` `Ollama` |
-| [**website-summarizer-ollama**](https://github.com/dikshyak/website-summarizer-ollama) | Summarize any website using a local Ollama LLM — runs fully offline | `Jupyter` `Ollama` `Python` |
-| [**ollama-tech-explainer**](https://github.com/dikshyak/ollama-tech-explainer) | Explain any tech concept in plain language using a locally-run Ollama model | `Jupyter` `Ollama` `Python` |
-| [**company-brochure-generator**](https://github.com/dikshyak/company-brochure-generator) | Auto-generate polished company brochures from a URL using an LLM | `Jupyter` `Python` `LLM` |
+<a href="https://github.com/dikshyak/Travel-Pulse">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dikshyak&repo=Travel-Pulse&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/dikshyak/react-gym-ai-planner">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dikshyak&repo=react-gym-ai-planner&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/dikshyak/AI-RPS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dikshyak&repo=AI-RPS&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/dikshyak/web-scraper-OpenAI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dikshyak&repo=web-scraper-OpenAI&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/dikshyak/website-summarizer-ollama">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dikshyak&repo=website-summarizer-ollama&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/dikshyak/ollama-tech-explainer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dikshyak&repo=ollama-tech-explainer&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/dikshyak/company-brochure-generator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dikshyak&repo=company-brochure-generator&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
+</a>
