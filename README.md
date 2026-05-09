@@ -15,10 +15,6 @@ I'm a Full Stack & AI Engineer who loves building robust backends, beautiful int
 
 ---
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dikshyak&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ## 🚀 Projects
 
 <a href="https://github.com/dikshyak/Travel-Pulse">
