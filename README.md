@@ -15,7 +15,7 @@ I'm a Full Stack & AI Engineer who loves building robust backends, beautiful int
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dikshyak&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF)](https://git.io/streak-stats)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dikshyak&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -27,9 +27,9 @@ I'm a Full Stack & AI Engineer who loves building robust backends, beautiful int
 <a href="https://github.com/dikshyak/react-gym-ai-planner">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dikshyak&repo=react-gym-ai-planner&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/dikshyak/Sentiment-Analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dikshyak&repo=Sentiment-Analysis&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
-</a>
 <a href="https://github.com/dikshyak/AI-RPS">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dikshyak&repo=AI-RPS&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/dikshyak/web-scraper-OpenAI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dikshyak&repo=web-scraper-OpenAI&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
 </a>
