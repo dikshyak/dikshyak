@@ -33,12 +33,3 @@ I'm a Full Stack & AI Engineer who loves building robust backends, beautiful int
 <a href="https://github.com/dikshyak/web-scraper-OpenAI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dikshyak&repo=web-scraper-OpenAI&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/dikshyak/website-summarizer-ollama">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dikshyak&repo=website-summarizer-ollama&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/dikshyak/ollama-tech-explainer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dikshyak&repo=ollama-tech-explainer&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/dikshyak/company-brochure-generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dikshyak&repo=company-brochure-generator&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
-</a>
