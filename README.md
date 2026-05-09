@@ -16,3 +16,17 @@ I'm a Full Stack & AI Engineer who loves building robust backends, beautiful int
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dikshyak&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF)](https://git.io/streak-stats)
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**Travel-Pulse**](https://github.com/dikshyak/Travel-Pulse) | Full-stack tour booking platform with AI chat assistant, Stripe payments, Mapbox maps, Google OAuth & 2FA | `JavaScript` `MongoDB` `Express` `React` `Node` `Stripe` `Mapbox` `OpenRouter` |
+| [**react-gym-ai-planner**](https://github.com/dikshyak/react-gym-ai-planner) | AI-powered fitness planning app that generates personalized workout plans via LLMs | `TypeScript` `React` `Prisma` `Neon PostgreSQL` `OpenRouter` |
+| [**AI-RPS**](https://github.com/dikshyak/AI-RPS) | Rock Paper Scissors game where the AI learns your patterns using Q-Learning reinforcement | `Python` `Q-Learning` |
+| [**web-scraper-OpenAI**](https://github.com/dikshyak/web-scraper-OpenAI) | AI-powered web scraper that extracts and interprets content using OpenAI & Ollama | `Python` `OpenAI` `Ollama` |
+| [**website-summarizer-ollama**](https://github.com/dikshyak/website-summarizer-ollama) | Summarize any website using a local Ollama LLM — runs fully offline | `Jupyter` `Ollama` `Python` |
+| [**ollama-tech-explainer**](https://github.com/dikshyak/ollama-tech-explainer) | Explain any tech concept in plain language using a locally-run Ollama model | `Jupyter` `Ollama` `Python` |
+| [**company-brochure-generator**](https://github.com/dikshyak/company-brochure-generator) | Auto-generate polished company brochures from a URL using an LLM | `Jupyter` `Python` `LLM` |
