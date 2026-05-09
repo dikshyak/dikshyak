@@ -1,12 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alumni+Sans+SC&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&width=750&lines=Hi%2C+I'm+Dikshya+%F0%9F%91%8B;Full+Stack+Engineer;Full+Stack+%7C+AI+%7C+LLM+Integration;Working+Across+the+Stack+%26+the+AI+Realm;Building+Complex%2C+Scalable+Things;From+APIs+to+Models+%E2%80%94+I+Ship+It+All)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alumni+Sans+SC&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&width=750&lines=Hi%2C+I'm+Dikshya+%F0%9F%91%8B;Full+Stack+%26+AI+Engineer;Full+Stack+%7C+AI+%7C+LLM+Integration;Working+Across+the+Stack+%26+the+AI+Realm;Building+Complex%2C+Scalable+Things;From+APIs+to+Models+%E2%80%94+I+Ship+It+All)](https://git.io/typing-svg)
 
-I'm a Full Stack & AI Engineer who loves building robust backends, beautiful interfaces, and intelligent systems. I care about creating technology that actually solves problems — from seamless payment flows to LLM-powered features that feel like magic.
+I'm a Full Stack & AI Engineer who loves building robust backends, beautiful interfaces, and intelligent systems. Beyond the code, I care about creating technology that actually solves problems — from seamless payment flows to LLM-powered features that feel like magic.
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dikshyak)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dikshyak)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dikshyak966@gmail.com)
 
 <br>
 
