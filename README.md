@@ -17,6 +17,9 @@ I'm a Full Stack & AI Engineer who loves building robust backends, beautiful int
 
 ## 🚀 Projects
 
+<a href="https://github.com/dikshyak/eduflow-nepal">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dikshyak&repo=eduflow-nepal&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
+</a>
 <a href="https://github.com/dikshyak/Travel-Pulse">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dikshyak&repo=Travel-Pulse&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
 </a>
